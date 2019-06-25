@@ -1,6 +1,6 @@
 # php-num2str
 Wrapper class for solving the problem of converting a number to a string.<br>
-You can change cents delimiter.
+You can change cents delimiter.<br>
 _index.php_ - demo 
 
 **=========example=========**<br><br> 
